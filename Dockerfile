@@ -3,8 +3,8 @@ FROM debian:latest
 WORKDIR /app
 
 LABEL version="1.0.0"
-LABEL repository="https://github.com/HGregoireAuto/eb-github-action/blob/master/Dockerfile"
-LABEL homepage="https://github.com/HGregoireAuto/eb-github-action/blob/master/Dockerfile"
+LABEL repository="https://github.com/HGregoireAuto/eb-github-action"
+LABEL homepage="https://github.com/HGregoireAuto/eb-github-action"
 LABEL maintainer="Matador Software"
 
 LABEL "com.github.actions.name"="EB github action"
